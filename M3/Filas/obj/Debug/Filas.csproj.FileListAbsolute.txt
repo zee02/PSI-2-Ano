@@ -1,0 +1,10 @@
+D:\PSI\M3\Filas\bin\Debug\Filas.exe.config
+D:\PSI\M3\Filas\bin\Debug\Filas.exe
+D:\PSI\M3\Filas\bin\Debug\Filas.pdb
+D:\PSI\M3\Filas\obj\Debug\Filas.csprojAssemblyReference.cache
+D:\PSI\M3\Filas\obj\Debug\Filas.Form1.resources
+D:\PSI\M3\Filas\obj\Debug\Filas.Properties.Resources.resources
+D:\PSI\M3\Filas\obj\Debug\Filas.csproj.GenerateResource.cache
+D:\PSI\M3\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
+D:\PSI\M3\Filas\obj\Debug\Filas.exe
+D:\PSI\M3\Filas\obj\Debug\Filas.pdb

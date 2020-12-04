@@ -1,0 +1,10 @@
+D:\PSI\Jogo do Galo\bin\Debug\Jogo do Galo.exe.config
+D:\PSI\Jogo do Galo\bin\Debug\Jogo do Galo.exe
+D:\PSI\Jogo do Galo\bin\Debug\Jogo do Galo.pdb
+D:\PSI\Jogo do Galo\obj\Debug\Jogo do Galo.csprojAssemblyReference.cache
+D:\PSI\Jogo do Galo\obj\Debug\Jogo_do_Galo.Form1.resources
+D:\PSI\Jogo do Galo\obj\Debug\Jogo_do_Galo.Properties.Resources.resources
+D:\PSI\Jogo do Galo\obj\Debug\Jogo do Galo.csproj.GenerateResource.cache
+D:\PSI\Jogo do Galo\obj\Debug\Jogo do Galo.csproj.CoreCompileInputs.cache
+D:\PSI\Jogo do Galo\obj\Debug\Jogo do Galo.exe
+D:\PSI\Jogo do Galo\obj\Debug\Jogo do Galo.pdb

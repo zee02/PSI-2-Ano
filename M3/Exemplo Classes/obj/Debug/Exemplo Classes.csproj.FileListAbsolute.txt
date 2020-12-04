@@ -1,0 +1,10 @@
+D:\PSI\M3\Exemplo Classes\bin\Debug\Exemplo Classes.exe.config
+D:\PSI\M3\Exemplo Classes\bin\Debug\Exemplo Classes.exe
+D:\PSI\M3\Exemplo Classes\bin\Debug\Exemplo Classes.pdb
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo Classes.csprojAssemblyReference.cache
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo_Classes.Form1.resources
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo_Classes.Properties.Resources.resources
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo Classes.csproj.GenerateResource.cache
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo Classes.csproj.CoreCompileInputs.cache
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo Classes.exe
+D:\PSI\M3\Exemplo Classes\obj\Debug\Exemplo Classes.pdb

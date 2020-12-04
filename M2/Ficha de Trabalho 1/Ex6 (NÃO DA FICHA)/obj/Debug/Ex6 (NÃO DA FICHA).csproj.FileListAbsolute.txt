@@ -1,0 +1,10 @@
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6 (NÃO DA FICHA).csprojAssemblyReference.cache
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6__NÃO_DA_FICHA_.Form1.resources
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6__NÃO_DA_FICHA_.Properties.Resources.resources
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6 (NÃO DA FICHA).csproj.GenerateResource.cache
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6 (NÃO DA FICHA).csproj.CoreCompileInputs.cache
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\bin\Debug\Ex6 (NÃO DA FICHA).exe.config
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\bin\Debug\Ex6 (NÃO DA FICHA).exe
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\bin\Debug\Ex6 (NÃO DA FICHA).pdb
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6 (NÃO DA FICHA).exe
+D:\PSI\Ficha de Trabalho 1\Ex6 (NÃO DA FICHA)\obj\Debug\Ex6 (NÃO DA FICHA).pdb

@@ -1,0 +1,10 @@
+D:\PSI\M2\Revisões M2\Ex1\bin\Debug\Ex1.exe.config
+D:\PSI\M2\Revisões M2\Ex1\bin\Debug\Ex1.exe
+D:\PSI\M2\Revisões M2\Ex1\bin\Debug\Ex1.pdb
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.Form1.resources
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.exe
+D:\PSI\M2\Revisões M2\Ex1\obj\Debug\Ex1.pdb

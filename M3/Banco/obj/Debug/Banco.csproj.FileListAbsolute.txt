@@ -1,0 +1,10 @@
+D:\Curso\PSI\M3\Banco\bin\Debug\Banco.exe.config
+D:\Curso\PSI\M3\Banco\bin\Debug\Banco.exe
+D:\Curso\PSI\M3\Banco\bin\Debug\Banco.pdb
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.Form1.resources
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.exe
+D:\Curso\PSI\M3\Banco\obj\Debug\Banco.pdb

@@ -1,0 +1,10 @@
+D:\PSI\Ex4\bin\Debug\Ex4.exe.config
+D:\PSI\Ex4\bin\Debug\Ex4.exe
+D:\PSI\Ex4\bin\Debug\Ex4.pdb
+D:\PSI\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+D:\PSI\Ex4\obj\Debug\Ex4.Form1.resources
+D:\PSI\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+D:\PSI\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+D:\PSI\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+D:\PSI\Ex4\obj\Debug\Ex4.exe
+D:\PSI\Ex4\obj\Debug\Ex4.pdb

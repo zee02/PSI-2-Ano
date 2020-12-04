@@ -1,0 +1,19 @@
+D:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.exe.config
+D:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.exe
+D:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.pdb
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.csprojAssemblyReference.cache
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto_PSI.Form1.resources
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto_PSI.Properties.Resources.resources
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.csproj.GenerateResource.cache
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.exe
+D:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.pdb
+G:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.exe.config
+G:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.exe
+G:\Curso\PSI\M4\Projeto PSI\bin\Debug\Projeto PSI.pdb
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.csprojAssemblyReference.cache
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto_PSI.Form1.resources
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto_PSI.Properties.Resources.resources
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.csproj.GenerateResource.cache
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.exe
+G:\Curso\PSI\M4\Projeto PSI\obj\Debug\Projeto PSI.pdb

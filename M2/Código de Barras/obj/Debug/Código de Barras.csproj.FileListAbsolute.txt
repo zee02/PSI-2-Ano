@@ -1,0 +1,10 @@
+D:\PSI\M2\Código de Barras\bin\Debug\Código de Barras.exe.config
+D:\PSI\M2\Código de Barras\bin\Debug\Código de Barras.exe
+D:\PSI\M2\Código de Barras\bin\Debug\Código de Barras.pdb
+D:\PSI\M2\Código de Barras\obj\Debug\Código de Barras.csprojAssemblyReference.cache
+D:\PSI\M2\Código de Barras\obj\Debug\Código_de_Barras.Form1.resources
+D:\PSI\M2\Código de Barras\obj\Debug\Código_de_Barras.Properties.Resources.resources
+D:\PSI\M2\Código de Barras\obj\Debug\Código de Barras.csproj.GenerateResource.cache
+D:\PSI\M2\Código de Barras\obj\Debug\Código de Barras.csproj.CoreCompileInputs.cache
+D:\PSI\M2\Código de Barras\obj\Debug\Código de Barras.exe
+D:\PSI\M2\Código de Barras\obj\Debug\Código de Barras.pdb
