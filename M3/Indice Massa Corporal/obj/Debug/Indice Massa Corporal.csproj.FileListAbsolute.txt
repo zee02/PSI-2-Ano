@@ -1,0 +1,19 @@
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.csprojAssemblyReference.cache
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice_Massa_Corporal.Form1.resources
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice_Massa_Corporal.Properties.Resources.resources
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.csproj.GenerateResource.cache
+F:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.exe.config
+F:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.exe
+F:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.pdb
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.exe
+F:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.pdb
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.csprojAssemblyReference.cache
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice_Massa_Corporal.Form1.resources
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice_Massa_Corporal.Properties.Resources.resources
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.csproj.GenerateResource.cache
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.exe
+D:\Curso\PSI\M3\Indice Massa Corporal\obj\Debug\Indice Massa Corporal.pdb
+D:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.exe.config
+D:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.exe
+D:\Curso\PSI\M3\Indice Massa Corporal\bin\Debug\Indice Massa Corporal.pdb

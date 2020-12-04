@@ -1,0 +1,10 @@
+D:\PSI\ComboBox\bin\Debug\ComboBox.exe.config
+D:\PSI\ComboBox\bin\Debug\ComboBox.exe
+D:\PSI\ComboBox\bin\Debug\ComboBox.pdb
+D:\PSI\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+D:\PSI\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\PSI\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\PSI\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\PSI\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+D:\PSI\ComboBox\obj\Debug\ComboBox.exe
+D:\PSI\ComboBox\obj\Debug\ComboBox.pdb

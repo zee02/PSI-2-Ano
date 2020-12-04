@@ -1,0 +1,12 @@
+D:\PSI\Ex1\bin\Debug\Ex1.exe.config
+D:\PSI\Ex1\bin\Debug\Ex1.exe
+D:\PSI\Ex1\bin\Debug\Ex1.pdb
+D:\PSI\Ex1\bin\Debug\Ex1.xml
+D:\PSI\Ex1\obj\Debug\Ex1.vbprojAssemblyReference.cache
+D:\PSI\Ex1\obj\Debug\Ex1.Form1.resources
+D:\PSI\Ex1\obj\Debug\Ex1.Resources.resources
+D:\PSI\Ex1\obj\Debug\Ex1.vbproj.GenerateResource.cache
+D:\PSI\Ex1\obj\Debug\Ex1.vbproj.CoreCompileInputs.cache
+D:\PSI\Ex1\obj\Debug\Ex1.exe
+D:\PSI\Ex1\obj\Debug\Ex1.xml
+D:\PSI\Ex1\obj\Debug\Ex1.pdb

@@ -1,0 +1,19 @@
+D:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.exe.config
+D:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.exe
+D:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.pdb
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.csprojAssemblyReference.cache
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão_de_Avarias.Form1.resources
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão_de_Avarias.Properties.Resources.resources
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.csproj.GenerateResource.cache
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.csproj.CoreCompileInputs.cache
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.exe
+D:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.pdb
+F:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.exe.config
+F:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.exe
+F:\PSI\M3\Gestão de Avarias\bin\Debug\Gestão de Avarias.pdb
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.csprojAssemblyReference.cache
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão_de_Avarias.Form1.resources
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão_de_Avarias.Properties.Resources.resources
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.csproj.GenerateResource.cache
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.exe
+F:\PSI\M3\Gestão de Avarias\obj\Debug\Gestão de Avarias.pdb

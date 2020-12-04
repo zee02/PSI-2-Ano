@@ -1,0 +1,29 @@
+D:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe.config
+D:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe
+D:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.pdb
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csprojAssemblyReference.cache
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Form1.resources
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Properties.Resources.resources
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csproj.GenerateResource.cache
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.exe
+D:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.pdb
+F:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe.config
+F:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe
+F:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.pdb
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csprojAssemblyReference.cache
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Form1.resources
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Properties.Resources.resources
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csproj.GenerateResource.cache
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.exe
+F:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.pdb
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csprojAssemblyReference.cache
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Form1.resources
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas_de_diálogo.Properties.Resources.resources
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csproj.GenerateResource.cache
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.csproj.CoreCompileInputs.cache
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.exe
+E:\Curso\PSI\M4\Caixas de diálogo\obj\Debug\Caixas de diálogo.pdb
+E:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe.config
+E:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.exe
+E:\Curso\PSI\M4\Caixas de diálogo\bin\Debug\Caixas de diálogo.pdb

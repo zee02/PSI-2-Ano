@@ -1,0 +1,8 @@
+
+
+O método c# int.TryPars converte uma string num número inteiro.
+
+
+
+
+Se a string não puder ser convertida, o método irá retornar false, se for conversível, returnará true.

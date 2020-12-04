@@ -1,0 +1,10 @@
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.csprojAssemblyReference.cache
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.Form1.resources
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.Properties.Resources.resources
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.csproj.GenerateResource.cache
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M3\Pizzas\bin\Debug\Pizzas.exe.config
+D:\Curso\PSI\M3\Pizzas\bin\Debug\Pizzas.exe
+D:\Curso\PSI\M3\Pizzas\bin\Debug\Pizzas.pdb
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.exe
+D:\Curso\PSI\M3\Pizzas\obj\Debug\Pizzas.pdb

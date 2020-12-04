@@ -1,0 +1,9 @@
+D:\PSI\ListBox\bin\Debug\ListBox.exe.config
+D:\PSI\ListBox\bin\Debug\ListBox.exe
+D:\PSI\ListBox\bin\Debug\ListBox.pdb
+D:\PSI\ListBox\obj\Debug\ListBox.Form1.resources
+D:\PSI\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\PSI\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\PSI\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\PSI\ListBox\obj\Debug\ListBox.exe
+D:\PSI\ListBox\obj\Debug\ListBox.pdb

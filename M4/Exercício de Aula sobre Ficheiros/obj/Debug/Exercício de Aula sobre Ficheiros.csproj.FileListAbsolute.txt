@@ -1,0 +1,10 @@
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício de Aula sobre Ficheiros.csprojAssemblyReference.cache
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício_de_Aula_sobre_Ficheiros.Form1.resources
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício_de_Aula_sobre_Ficheiros.Properties.Resources.resources
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício de Aula sobre Ficheiros.csproj.GenerateResource.cache
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício de Aula sobre Ficheiros.csproj.CoreCompileInputs.cache
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\bin\Debug\Exercício de Aula sobre Ficheiros.exe.config
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\bin\Debug\Exercício de Aula sobre Ficheiros.exe
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\bin\Debug\Exercício de Aula sobre Ficheiros.pdb
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício de Aula sobre Ficheiros.exe
+D:\Curso\PSI\M4\Exercício de Aula sobre Ficheiros\obj\Debug\Exercício de Aula sobre Ficheiros.pdb

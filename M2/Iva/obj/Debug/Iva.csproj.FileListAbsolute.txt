@@ -1,0 +1,10 @@
+D:\PSI\Iva\obj\Debug\Iva.csprojAssemblyReference.cache
+D:\PSI\Iva\obj\Debug\Iva.Form1.resources
+D:\PSI\Iva\obj\Debug\Iva.Properties.Resources.resources
+D:\PSI\Iva\obj\Debug\Iva.csproj.GenerateResource.cache
+D:\PSI\Iva\obj\Debug\Iva.csproj.CoreCompileInputs.cache
+D:\PSI\Iva\bin\Debug\Iva.exe.config
+D:\PSI\Iva\bin\Debug\Iva.exe
+D:\PSI\Iva\bin\Debug\Iva.pdb
+D:\PSI\Iva\obj\Debug\Iva.exe
+D:\PSI\Iva\obj\Debug\Iva.pdb

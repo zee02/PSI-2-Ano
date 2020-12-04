@@ -1,0 +1,10 @@
+D:\PSI\M2\Métodos\Exercício Métodos\bin\Debug\Exercício Métodos.exe.config
+D:\PSI\M2\Métodos\Exercício Métodos\bin\Debug\Exercício Métodos.exe
+D:\PSI\M2\Métodos\Exercício Métodos\bin\Debug\Exercício Métodos.pdb
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício Métodos.csprojAssemblyReference.cache
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício_Métodos.Form1.resources
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício_Métodos.Properties.Resources.resources
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício Métodos.csproj.GenerateResource.cache
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício Métodos.csproj.CoreCompileInputs.cache
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício Métodos.exe
+D:\PSI\M2\Métodos\Exercício Métodos\obj\Debug\Exercício Métodos.pdb

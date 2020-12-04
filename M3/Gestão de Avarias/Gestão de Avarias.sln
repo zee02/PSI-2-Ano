@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestão de Avarias", "Gestão de Avarias.csproj", "{1386E7D8-6E07-44F6-B7EB-9AEE9B8362BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1386E7D8-6E07-44F6-B7EB-9AEE9B8362BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1386E7D8-6E07-44F6-B7EB-9AEE9B8362BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1386E7D8-6E07-44F6-B7EB-9AEE9B8362BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1386E7D8-6E07-44F6-B7EB-9AEE9B8362BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F98D199-CB99-4D9A-8ED7-5861C801C136}
+	EndGlobalSection
+EndGlobal
